@@ -40,31 +40,6 @@ When you code with Kokedera, you sit in that garden:
 6. Search for **"Preferences: Color Theme"**
 7. Select **Kokedera**
 
-### From VSIX
-
-1. Download the latest `.vsix` from
-   [Releases](https://github.com/7th-Layer/kokedera-theme-extension-vscode/releases)
-
-2. In VS Code, open the command palette and run **"Extensions: Install from VSIX..."**
-
-3. Select the downloaded `.vsix` file
-
-### Build from Source
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/7th-Layer/kokedera-theme-extension-vscode.git
-   ```
-
-2. Install dependencies and package:
-   ```bash
-   npm install -g @vscode/vsce
-   cd kokedera-theme-extension-vscode
-   vsce package
-   ```
-
-3. Install the generated `.vsix` file via VS Code
-
 ## Palette
 
 | Role | Color | Hex |
