@@ -40,10 +40,14 @@
 | Errors | `#c45a5a` |
 | Warnings | `#bfa243` |
 
+## Pair with the icon pack
+
+- **[Kokedera Icons](https://marketplace.visualstudio.com/items?itemName=7th-Layer.kokedera-icons)** — matching file & folder icons
+
 ## Also available for
 
 - [JetBrains IDEs](https://plugins.jetbrains.com/plugin/30629-kokedera--japanese-moss-temple-theme)
-- [Zed](https://zed.dev/extensions/kokedera-theme) (+ [icon pack](https://github.com/7th-Layer/kokedera-icons-extension-zed))
+- [Zed](https://zed.dev/extensions/kokedera-theme)
 
 ## License
 
