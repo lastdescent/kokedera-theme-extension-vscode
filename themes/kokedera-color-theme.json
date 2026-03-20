@@ -39,7 +39,7 @@
     "keyword": "#4ca64c",
     "number": "#c49a5c",
     "operator": "#7a9070",
-    "regexp": "#bfa243",
+    "regexp": "#9a7abf",
     "selfKeyword": {
       "foreground": "#7ec46c",
       "italic": true
@@ -504,7 +504,7 @@
         "constant.character.escape"
       ],
       "settings": {
-        "foreground": "#c49a5c",
+        "foreground": "#9a7abf",
         "fontStyle": "bold"
       }
     },
@@ -514,7 +514,7 @@
         "string.regexp"
       ],
       "settings": {
-        "foreground": "#bfa243"
+        "foreground": "#9a7abf"
       }
     },
     {
