@@ -22,7 +22,7 @@
 
 ## Pair with the icon pack
 
-- **[Kokedera Icons](https://marketplace.visualstudio.com/items?itemName=7th-Layer.kokedera-icons)** — 128+ matching file & folder icons
+- **[Kokedera Icons](https://marketplace.visualstudio.com/items?itemName=7th-Layer.kokedera-icons)** — 151 matching file & folder icons
 
 ## Also available for
 
