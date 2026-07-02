@@ -2,16 +2,16 @@
   "name": "kokedera-theme",
   "displayName": "Kokedera — Japanese Moss Temple Theme",
   "description": "A meditative dark theme inspired by the moss-covered temple garden Saihō-ji (苔寺) in Kyoto. Deep forest greens, weathered stone, and soft lantern light.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "publisher": "7th-Layer",
   "author": {
-    "name": "7th Layer"
+    "name": "lastdescent"
   },
   "license": "MIT",
   "homepage": "https://kokedera.style",
   "repository": {
     "type": "git",
-    "url": "https://github.com/7th-Layer/kokedera-theme-extension-vscode"
+    "url": "https://github.com/lastdescent/kokedera-theme-extension-vscode"
   },
   "icon": "icon.png",
   "engines": {
