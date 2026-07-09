@@ -1,6 +1,6 @@
-# 苔寺 Kokedera
+# Kokedera
 
-*A dark color theme for [Visual Studio Code](https://code.visualstudio.com), inspired by the moss temple garden in Kyoto.*
+*A dark color theme for [Visual Studio Code](https://code.visualstudio.com), drawn from the quiet green of a moss temple garden.*
 
 > **[kokedera.style](https://kokedera.style)** — visit the website for a full visual walkthrough of the palette, syntax highlighting, and icons.
 
@@ -8,7 +8,7 @@
 
 ## About
 
-**Kokedera** (苔寺, *Temple of Moss*) is a meditative dark color theme inspired by **Saihō-ji** — the ancient moss garden in Kyoto. The palette grows from a single source: the patient green of moss, accented by lantern amber, cedar teal, and stone gray.
+**Kokedera** is a meditative dark color theme drawn from the stillness of a moss temple garden. The palette grows from a single source — the patient green of moss, accented by lantern amber, cedar teal, and stone gray.
 
 ## Installation
 
@@ -26,7 +26,7 @@
 
 ## Also available for
 
-- [JetBrains IDEs](https://plugins.jetbrains.com/plugin/30629-kokedera--japanese-moss-temple-theme)
+- [JetBrains IDEs](https://plugins.jetbrains.com/plugin/30629-kokedera-moss-temple-theme)
 - [Zed](https://zed.dev/extensions/kokedera-theme)
 
 ## License
