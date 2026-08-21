@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Kokedera",
+  "name": "Kokedera Dusk",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {

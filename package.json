@@ -1,8 +1,8 @@
 {
   "name": "kokedera-theme",
   "displayName": "Kokedera — Moss Temple Theme",
-  "description": "A dark moss-temple color theme — forest greens, weathered stone, soft lantern light.",
-  "version": "1.0.6",
+  "description": "Moss-temple color themes — nine variants across the day, the seasons, and the weather of one garden.",
+  "version": "2.0.0",
   "publisher": "7th-Layer",
   "author": {
     "name": "lastdescent"
@@ -21,19 +21,60 @@
     "Themes"
   ],
   "keywords": [
-    "theme",
     "dark",
     "green",
-    "moss",
     "kokedera",
+    "light",
+    "moss",
+    "theme",
     "zen"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Kokedera",
+        "label": "Kokedera Morning",
+        "uiTheme": "vs",
+        "path": "./themes/kokedera-morning-color-theme.json"
+      },
+      {
+        "label": "Kokedera Dusk",
         "uiTheme": "vs-dark",
-        "path": "./themes/kokedera-color-theme.json"
+        "path": "./themes/kokedera-dusk-color-theme.json"
+      },
+      {
+        "label": "Kokedera Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kokedera-night-color-theme.json"
+      },
+      {
+        "label": "Kokedera Spring",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kokedera-spring-color-theme.json"
+      },
+      {
+        "label": "Kokedera Summer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kokedera-summer-color-theme.json"
+      },
+      {
+        "label": "Kokedera Autumn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kokedera-autumn-color-theme.json"
+      },
+      {
+        "label": "Kokedera Winter",
+        "uiTheme": "vs",
+        "path": "./themes/kokedera-winter-color-theme.json"
+      },
+      {
+        "label": "Kokedera Rain",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kokedera-rain-color-theme.json"
+      },
+      {
+        "label": "Kokedera Mist",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kokedera-mist-color-theme.json"
       }
     ]
   },
