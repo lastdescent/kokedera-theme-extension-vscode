@@ -5,13 +5,13 @@
   "version": "2.0.0",
   "publisher": "7th-Layer",
   "author": {
-    "name": "lastdescent"
+    "name": "Florian Mühlhans"
   },
   "license": "MIT",
   "homepage": "https://kokedera.style",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lastdescent/kokedera-theme-extension-vscode"
+    "url": "https://github.com/cappuccinotogo/kokedera-theme-extension-vscode"
   },
   "icon": "icon.png",
   "engines": {
